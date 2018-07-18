@@ -1,6 +1,6 @@
-num = int(input())
-	if num>=0 and num<=10000 :
-	  if (num % 2) == 0:
+a = int(input())
+	if a>=0 and a<=10000 :
+	  if (a % 2) == 0:
 	    print("Even")
 	  else:
 	   print("Odd") 
